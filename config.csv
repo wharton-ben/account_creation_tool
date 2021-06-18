@@ -1,0 +1,2 @@
+pwlength,dictionarypath,groupspath,path,upn,acct_creation_options,result_file,ou_path
+"16",".\dictionary.txt",".\groups.csv",",OU=container2,DC=wharton-ben,DC=local","@leid_va.cernerasp.com",$true,"C:",".\domains.csv"
